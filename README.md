@@ -12,7 +12,7 @@
 | [Python](Python) | Сертификаты по Python и фреймворкам |
 | [Data_Science](Data-Science) | Анализ данных, Pandas, NumPy, визуализация |
 | [SQL](SQL) | SQL, PostgreSQL, MySQL, работа с БД |
-| [Other](./Other/) | Дополнительные курсы и сертификаты |
+
 
 ## 📊 Быстрый обзор моих компетенций
 
