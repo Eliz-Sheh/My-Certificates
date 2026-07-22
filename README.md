@@ -8,7 +8,7 @@
 
 | Направление | Описание |
 | :--- | :--- |
-| [Excel](./Excel/) | Сертификаты по Excel, Power Query, Power Pivot |
+| [Excel](stepik-certificate-119119-76789d0.pdf) | Сертификаты по Excel, Power Query, Power Pivot |
 | [Python](./Python/) | Сертификаты по Python и фреймворкам |
 | [Data_Science](./Data_Science/) | Анализ данных, Pandas, NumPy, визуализация |
 | [SQL](stepik-certificate-102883-4a100a5.pdf) | SQL, PostgreSQL, MySQL, работа с БД |
