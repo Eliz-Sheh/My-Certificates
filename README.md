@@ -8,10 +8,10 @@
 
 | Направление | Описание |
 | :--- | :--- |
-| [Excel](stepik-certificate-119119-76789d0.pdf) | Сертификаты по Excel, Power Query, Power Pivot |
-| [Python](./Python/) | Сертификаты по Python и фреймворкам |
-| [Data_Science](./Data_Science/) | Анализ данных, Pandas, NumPy, визуализация |
-| [SQL](stepik-certificate-102883-4a100a5.pdf) | SQL, PostgreSQL, MySQL, работа с БД |
+| [Excel](Excel) | Сертификаты по Excel, Power Query, Power Pivot |
+| [Python](Python) | Сертификаты по Python и фреймворкам |
+| [Data_Science](Data-Science) | Анализ данных, Pandas, NumPy, визуализация |
+| [SQL](SQL) | SQL, PostgreSQL, MySQL, работа с БД |
 | [Other](./Other/) | Дополнительные курсы и сертификаты |
 
 ## 📊 Быстрый обзор моих компетенций
