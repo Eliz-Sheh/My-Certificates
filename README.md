@@ -8,6 +8,7 @@
 
 | Направление | Описание |
 | :--- | :--- |
+| [Excel](./Excel/) | Сертификаты по Excel, Power Query, Power Pivot |
 | [Python](./Python/) | Сертификаты по Python и фреймворкам |
 | [Data_Science](./Data_Science/) | Анализ данных, Pandas, NumPy, визуализация |
 | [Databases](./Databases/) | SQL, PostgreSQL, MySQL, работа с БД |
