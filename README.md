@@ -11,7 +11,7 @@
 | [Excel](./Excel/) | Сертификаты по Excel, Power Query, Power Pivot |
 | [Python](./Python/) | Сертификаты по Python и фреймворкам |
 | [Data_Science](./Data_Science/) | Анализ данных, Pandas, NumPy, визуализация |
-| [Databases](./Databases/) | SQL, PostgreSQL, MySQL, работа с БД |
+| [SQL](stepik-certificate-102883-4a100a5.pdf) | SQL, PostgreSQL, MySQL, работа с БД |
 | [Other](./Other/) | Дополнительные курсы и сертификаты |
 
 ## 📊 Быстрый обзор моих компетенций
